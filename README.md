@@ -1,5 +1,5 @@
 # Barbie E-commerce Website
-### Authors and Acknowledgement
+### Authors
 [Rana Salem](https://www.linkedin.com/in/ranatasalem/), [Maryam Islam](https://www.linkedin.com/in/marzcreatives/), [Laila Al-Eissa](https://www.linkedin.com/in/lailaaleissa/), [Viktorija Blumberga](https://www.linkedin.com/in/viktorijablumberga/), [Kuljeet Panesar](https://www.linkedin.com/in/kuljeetpanesar/), [Andreea-Daniela Baciu](https://www.linkedin.com/in/andreeadanielabaciu/), and Nadeen Bayley.
 
 ## Description
