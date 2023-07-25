@@ -1,0 +1,35 @@
+.header-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--barbie);
+    padding-top: 20px;
+    }
+  
+  .logo-header {
+    display: flex;
+    align-items: center;
+    margin: 0 auto 1em;
+    margin-left: 47%;
+  }
+  
+  .logo-header img {
+    width: auto;
+    height: 45px;
+  }
+  
+  .menu-items {
+    display: flex;
+    align-items: center;
+  }
+  
+  .menu-items a {
+    display: flex;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  .menu-items img {
+    width: 30px;
+  }

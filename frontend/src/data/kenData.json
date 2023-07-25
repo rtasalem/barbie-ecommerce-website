@@ -1,0 +1,86 @@
+[
+  {
+    "id": 25,
+    "src": "../images/ken2.jpg",
+    "alt": "Inspired Outfit",
+    "hoverSrc": "../images/khover8.jpg",
+    "hoverAlt": "Ken Pic"
+  },  
+  {
+    "id": 26,
+    "src": "../images/ken6.jpg",
+    "alt": "Inspired Outfit",
+    "hoverSrc": "../images/khover9.jpg",
+    "hoverAlt": "Ken Pic"
+  },    
+  {
+    "id": 27,
+    "src": "../images/ken12.jpg",
+    "alt": "Inspired Outfit",
+    "hoverSrc": "../images/khover7.jpg",
+    "hoverAlt": "Ken Pic"
+  },  
+  {
+    "id": 28,
+    "src": "../images/ken4.jpg",
+    "alt": "Inspired Outfit",
+    "hoverSrc": "../images/khover2.jpg",
+    "hoverAlt": "Ken Pic"
+  },  
+  {
+    "id": 29,
+    "src": "../images/ken3.jpg",
+    "alt": "Inspired Outfit",
+    "hoverSrc": "../images/khover1.jpg",
+    "hoverAlt": "Ken Pic"
+  },  
+  {
+    "id": 30,
+    "src": "../images/ken10.jpg",
+    "alt": "Inspired Outfit",
+    "hoverSrc": "../images/khover6.jpg",
+    "hoverAlt": "Ken Pic"
+  },  
+  {
+    "id": 31,
+    "src": "../images/ken9.jpg",
+    "alt": "Inspired Outfit",
+    "hoverSrc": "../images/khover5.jpg",
+    "hoverAlt": "Ken Pic"
+  },  
+  {
+    "id": 32,
+    "src": "../images/ken7.jpg",
+    "alt": "Inspired Outfit",
+    "hoverSrc": "../images/khover4.jpg",
+    "hoverAlt": "Ken Pic"
+  },  
+  {
+    "id": 33,
+    "src": "../images/ken1.jpg",
+    "alt": "Inspired Outfit",
+    "hoverSrc": "../images/khover10.jpg",
+    "hoverAlt": "Ken Pic"
+  }, 
+  {
+    "id": 34,
+    "src": "../images/ken11.jpg",
+    "alt": "Inspired Outfit",
+    "hoverSrc": "../images/khover7.jpg",
+    "hoverAlt": "Ken Pic"
+  }, 
+  {
+    "id": 35,
+    "src": "../images/ken5.jpg",
+    "alt": "Inspired Outfit",
+    "hoverSrc": "../images/khover3.jpg",
+    "hoverAlt": "Ken Pic"
+  },  
+  {
+    "id": 36,
+    "src": "../images/ken8.jpg",
+    "alt": "Inspired Outfit",
+    "hoverSrc": "../images/khover5.jpg",
+    "hoverAlt": "Ken Pic"
+  }
+]

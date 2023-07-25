@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BarbieEcommerceWebsiteApiApplication<barbie-ecommerce-website-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.fdmgroup.api.BarbieEcommerceWebsiteApiApplication",
+            "projectName": "barbie-ecommerce-website-api",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

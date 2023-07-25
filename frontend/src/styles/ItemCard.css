@@ -1,0 +1,125 @@
+.item-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    background-color: var(--bg);
+}
+
+.item-details {
+    box-sizing: content-box;
+    margin: 3px;
+    display: flex;
+    height: 70vh;
+    width: 100vw;
+    border-radius: 20px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.4);
+    margin-left:80px;
+    margin-right: 80px;
+    outline: 5px solid var(--barbie);
+    background-color: rgb(250, 239, 249);
+}
+
+.item-image {
+    width: auto;
+    object-fit: cover; 
+    border-radius: 20px;
+    border: solid 5px var(--capbg);
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, 0.1);
+}
+
+.item-content {
+    flex: 1;
+    padding: 20px; /* Add padding to the item content */
+    padding-top: 30px;
+}
+
+/* .item-content-details {
+    padding-top: 5vw;
+} */
+
+#quantity-box {
+    font-size: 14px;
+    margin: 10px 15px;
+    width: 70px;
+    height: 28px;
+    background-color: var(--capbg);
+    border-radius: 2px;
+    outline: solid 2px var(--cursor);
+    border: none;
+    text-align: center;
+}
+
+.item-text-content {
+    display: flex;
+}
+
+.item-name {
+    font-variant: small-caps;
+    padding-top: 0;
+    font-size: 34px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: left;
+    color: var(--heading);
+}
+
+.item-text {
+    text-align: justify;
+    font-size: 14px;
+    margin: 15px 15px;
+    color: black;
+}
+
+.item-heading, #size-heading {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 15px 0;
+    text-align: left;
+    color: var(--heading);
+}
+
+.item-size {
+    text-align: center;
+    margin: 20px 0; /* Adjust the top and bottom margin for spacing */
+}
+
+#size-dropdown {
+    font-size: 14px;
+    margin: 0px 15px;
+    height: 32px;
+    background-color: var(--capbg);
+    border-radius: 2px;
+    outline: solid 2px var(--cursor);
+    border: none;
+}
+
+.add-to-basket {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.add-to-basket img {
+    height: 30px;
+    margin: 0 20px;
+}
+
+.add-to-basket button {
+    background-color: var(--caption);
+    color: #fff;
+    padding: 10px 0px;
+    width: 150px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.add-to-basket button:hover {
+    background-color: var(--scrollbg);
+    color: var(--caption);
+    font-weight: bold;
+
+}
+

@@ -1,0 +1,84 @@
+.carousel {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: auto;
+    position: relative;
+}
+
+.slide-image {
+    width: 100%;
+    height: auto;
+}
+
+.slide-hidden {
+    display: none;
+}
+
+.banner-button {
+    position: absolute;
+    top: 83%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 26px;
+    background-color: var(--capbg);
+    color: var(--caption);
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    box-shadow: 1px 1px 5px #bbb;
+    font-variant:small-caps;
+  }
+  
+  .banner-button:hover {
+    background-color: var(--caption);
+    color: white;
+  }
+
+.arrow {
+    position: absolute;
+    width: 4rem;
+    height: 5rem;
+    color: white;
+    opacity: 0.4;
+}
+
+.arrow:hover {
+    opacity: 0.9;
+}
+
+.arrow-left {
+    left: 1rem;
+}
+
+.arrow-right {
+    right: 1rem;
+}
+
+.indicators {
+    display: flex;
+    position: absolute;
+    bottom: 1rem;
+}
+
+.indicator {
+    background-color: white;
+    height: 0.2rem;
+    width: 2rem;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    margin: 0 0.2rem;
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+.indicator-inactive {
+    opacity: 0.4;
+}

@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  cursor: none;
+}
+
+:root {
+  --bg: #fde5f8;
+  --scrollbg: #86e2f6;
+  --caption: #de4c92;
+  --capbg: #ffeeb3;
+  --heading: #a5346c;
+  --headingbg: #f9f9c4;
+  --barbie: #eca5ce;
+  --barbie2: rgb(255, 135, 237);
+  --navbar: #faf7c5;
+  --navbarbg: #4ed6f4;
+  --button: #d28db2;
+  --navhover: #ffe895;
+  --cursor: #ffc400;
+  --white: #fff;
+}
+
+.body {
+  background-color: var(--bg);
+  /* background-image: url(../public/icons/background.png);
+  background-repeat: repeat; */
+}
+
+
+.cursor {
+  cursor: url(../public/icons/cursor.png), auto;
+  border: groove 15px var(--cursor);
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  border-style: double;
+  position: fixed;
+  top: 0;
+  left: 0;
+}

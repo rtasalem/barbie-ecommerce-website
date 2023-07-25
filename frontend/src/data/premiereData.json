@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "src": "../images/margot_robbie2.jpg",
+    "alt": "Inspired Outfit",
+    "caption": "Margot Robbie",
+    "hoverSrc": "../images/margot_robbie1.jpg",
+    "hoverAlt": "Premiere Pic",
+    "bigSrc": "../bigger-images/margot_robbie2.jpg"
+  },
+  {
+    "id": 2,
+    "src": "../images/ryan_gosling2.jpg",
+    "alt": "Inspired Outfit",
+    "caption": "Ryan Gosling",
+    "hoverSrc": "../images/ryan_gosling1.jpg",
+    "hoverAlt": "Premiere Pic",
+    "bigSrc": "../bigger-images/ryan_gosling2.jpg"
+  },
+  {
+    "id": 3,
+    "src": "../images/billie_eilish2.jpg",
+    "alt": "Inspired Outfit",
+    "caption": "Billie Eilish",
+    "hoverSrc": "../images/billie_eilish1.jpg",
+    "hoverAlt": "Premiere Pic",
+    "bigSrc": "../bigger-images/billie_eilish2.jpg"
+  },
+  {
+    "id": 4,
+      "src": "../images/nicki_minaj2.jpg",
+      "alt": "Inspired Outfit",
+      "caption": "Nicki Minaj",
+      "hoverSrc": "../images/nicki_minaj1.jpg",
+      "hoverAlt": "Premiere Pic",
+      "bigSrc": "../bigger-images/nicki_minaj2.jpg"
+  },
+  {
+    "id": 5,
+    "src": "../images/xochitl_gomez2.jpg",
+    "alt": "Inspired Outfit",
+    "caption": "Xochitl Gomez",
+    "hoverSrc": "../images/xochitl_gomez1.jpg",
+    "hoverAlt": "Premiere Pic",
+    "bigSrc": "../bigger-images/xochitl_gomez2.jpg"
+  },
+  {
+    "id": 6,
+      "src": "../images/simu_liu2.jpg",
+      "alt": "Inspired Outfit",
+      "caption": "Simu Liu",
+      "hoverSrc": "../images/simu_liu1.jpg",
+      "hoverAlt": "Premiere Pic",
+      "bigSrc": "../bigger-images/simu_liu2.jpg"
+  },
+  {
+    "id": 7,
+      "src": "../images/shay_mitchell2.jpg",
+      "alt": "Inspired Outfit",
+      "caption": "Shay Mitchell",
+      "hoverSrc": "../images/shay_mitchell1.jpg",
+      "hoverAlt": "Premiere Pic",
+      "bigSrc": "../bigger-images/shay_mitchell2.jpg"
+  },
+  {
+    "id": 8,
+      "src": "../images/greta_gerwig2.jpg",
+      "alt": "Inspired Outfit",
+      "caption": "Greta Gerwig",
+      "hoverSrc": "../images/greta_gerwig1.jpg",
+      "hoverAlt": "Premiere Pic",
+      "bigSrc": "../bigger-images/greta_gerwig2.jpg"
+  },
+  {
+    "id": 9,
+      "src": "../images/america_ferrera2.jpg",
+      "alt": "Inspired Outfit",
+      "caption": "America Ferrera",
+      "hoverSrc": "../images/america_ferrera1.jpg",
+      "hoverAlt": "Premiere Pic",
+      "bigSrc": "../bigger-images/america_ferrera2.jpg"
+  },
+  {
+    "id": 10,
+      "src": "../images/emma_mackey2.jpg",
+      "alt": "Inspired Outfit",
+      "caption": "Emma Mackey",
+      "hoverSrc": "../images/emma_mackey1.jpg",
+      "hoverAlt": "Premiere Pic",
+      "bigSrc": "../bigger-images/emma_mackey2.jpg"
+  },
+  {
+    "id": 11,
+      "src": "../images/dua_lipa2.jpg",
+      "alt": "Inspired Outfit",
+      "caption": "Dua Lipa",
+      "hoverSrc": "../images/dua_lipa1.jpg",
+      "hoverAlt": "Premiere Pic",
+      "bigSrc": "../bigger-images/dua_lipa2.jpg"
+  },
+  {
+    "id": 12,
+      "src": "../images/nicola_coughlan2.jpg",
+      "alt": "Inspired Outfit",
+      "caption": "Nicola Coughlan",
+      "hoverSrc": "../images/nicola_coughlan1.jpg",
+      "hoverAlt": "Premiere Pic",
+      "bigSrc": "../bigger-images/nicola_coughlan2.jpg"
+  }
+  ]
+  

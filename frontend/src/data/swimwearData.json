@@ -1,0 +1,87 @@
+[
+  {
+    "id": 13,
+      "src": "../images/swimwear8.jpg",
+      "alt": "Inspired Outfit",
+      "hoverSrc": "../images/hover_hat.jpg",
+      "hoverAlt": "Swimwear Pic"
+    },  
+    {
+      "id": 14,
+      "src": "../images/swimwear12.jpg",
+      "alt": "Inspired Outfit",
+      "hoverSrc": "../images/hover_orange.jpg",
+      "hoverAlt": "Swimwear Pic"
+    },
+    {
+      "id": 15,
+      "src": "../images/swimwear9.jpg",
+      "alt": "Inspired Outfit",
+      "hoverSrc": "../images/hover_blue.jpg",
+      "hoverAlt": "Swimwear Pic"
+    },
+    {
+      "id": 16,
+      "src": "../images/swimwear11.jpg",
+      "alt": "Inspired Outfit",
+      "hoverSrc": "../images/hover_yellow.jpg",
+      "hoverAlt": "Swimwear Pic"
+    },
+    {
+      "id": 17,
+      "src": "../images/swimwear10.jpg",
+      "alt": "Inspired Outfit",
+      "hoverSrc": "../images/hover_opink.jpg",
+      "hoverAlt": "Swimwear Pic"
+    },
+    {
+      "id": 18,
+      "src": "../images/swimwear1.jpg",
+      "alt": "Inspired Outfit",
+      "hoverSrc": "../images/hover_fullp.jpg",
+      "hoverAlt": "Swimwear Pic"
+    },
+    {
+      "id": 19,
+      "src": "../images/swimwear2.jpg",
+      "alt": "Inspired Outfit",
+      "hoverSrc": "../images/hover_lpfull.jpg",
+      "hoverAlt": "Swimwear Pic"
+    },
+    {
+      "id": 20,
+      "src": "../images/swimwear6.jpg",
+      "alt": "Inspired Outfit",
+      "hoverSrc": "../images/hover_lpink.jpg",
+      "hoverAlt": "Swimwear Pic"
+    },
+    {
+      "id":21,
+      "src": "../images/swimwear7.jpg",
+      "alt": "Inspired Outfit",
+      "hoverSrc": "../images/hover_dpink.jpg",
+      "hoverAlt": "Swimwear Pic"
+    },
+    {
+      "id": 22,
+      "src": "../images/swimwear5.jpg",
+      "alt": "Inspired Outfit",
+      "hoverSrc": "../images/hover_hat.jpg",
+      "hoverAlt": "Swimwear Pic"
+    },
+    {
+      "id": 23,
+      "src": "../images/swimwear3.jpg",
+      "alt": "Inspired Outfit",
+      "hoverSrc": "../images/hover_dpink.jpg",
+      "hoverAlt": "Swimwear Pic"
+    },
+    {
+      "id": 24,
+      "src": "../images/swimwear4.jpg",
+      "alt": "Inspired Outfit",
+      "hoverSrc": "../images/hover_lpink.jpg",
+      "hoverAlt": "Swimwear Pic"
+    }
+  ]
+  

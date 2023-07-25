@@ -1,0 +1,267 @@
+[
+    {
+      "id": 1,
+      "src": "../images/margot_robbie2.jpg",
+      "alt": "Inspired Outfit",
+      "caption": "Margot Robbie",
+      "hoverSrc": "../images/margot_robbie1.jpg",
+      "hoverAlt": "Premiere Pic"
+    },
+    {
+      "id": 2,
+      "src": "../images/ryan_gosling2.jpg",
+      "alt": "Inspired Outfit",
+      "caption": "Ryan Gosling",
+      "hoverSrc": "../images/ryan_gosling1.jpg",
+      "hoverAlt": "Premiere Pic"
+    },
+    {
+      "id": 3,
+      "src": "../images/billie_eilish2.jpg",
+      "alt": "Inspired Outfit",
+      "caption": "Billie Eilish",
+      "hoverSrc": "../images/billie_eilish1.jpg",
+      "hoverAlt": "Premiere Pic"
+    },
+    {
+      "id": 4,
+        "src": "../images/nicki_minaj2.jpg",
+        "alt": "Inspired Outfit",
+        "caption": "Nicki Minaj",
+        "hoverSrc": "../images/nicki_minaj1.jpg",
+        "hoverAlt": "Premiere Pic"
+    },
+    {
+      "id": 5,
+      "src": "../images/xochitl_gomez2.jpg",
+      "alt": "Inspired Outfit",
+      "caption": "Xochitl Gomez",
+      "hoverSrc": "../images/xochitl_gomez1.jpg",
+      "hoverAlt": "Premiere Pic"
+    },
+    {
+      "id": 6,
+        "src": "../images/simu_liu2.jpg",
+        "alt": "Inspired Outfit",
+        "caption": "Simu Liu",
+        "hoverSrc": "../images/simu_liu1.jpg",
+        "hoverAlt": "Premiere Pic"
+    },
+    {
+      "id": 7,
+        "src": "../images/shay_mitchell2.jpg",
+        "alt": "Inspired Outfit",
+        "caption": "Shay Mitchell",
+        "hoverSrc": "../images/shay_mitchell1.jpg",
+        "hoverAlt": "Premiere Pic"
+    },
+    {
+      "id": 8,
+        "src": "../images/greta_gerwig2.jpg",
+        "alt": "Inspired Outfit",
+        "caption": "Greta Gerwig",
+        "hoverSrc": "../images/greta_gerwig1.jpg",
+        "hoverAlt": "Premiere Pic"
+    },
+    {
+      "id": 9,
+        "src": "../images/america_ferrera2.jpg",
+        "alt": "Inspired Outfit",
+        "caption": "America Ferrera",
+        "hoverSrc": "../images/america_ferrera1.jpg",
+        "hoverAlt": "Premiere Pic"
+    },
+    {
+      "id": 10,
+        "src": "../images/emma_mackey2.jpg",
+        "alt": "Inspired Outfit",
+        "caption": "Emma Mackey",
+        "hoverSrc": "../images/emma_mackey1.jpg",
+        "hoverAlt": "Premiere Pic"
+    },
+    {
+      "id": 11,
+        "src": "../images/dua_lipa2.jpg",
+        "alt": "Inspired Outfit",
+        "caption": "Dua Lipa",
+        "hoverSrc": "../images/dua_lipa1.jpg",
+        "hoverAlt": "Premiere Pic"
+    },
+    {
+      "id": 12,
+        "src": "../images/nicola_coughlan2.jpg",
+        "alt": "Inspired Outfit",
+        "caption": "Nicola Coughlan",
+        "hoverSrc": "../images/nicola_coughlan1.jpg",
+        "hoverAlt": "Premiere Pic"
+    },
+    {
+      "id": 13,
+        "src": "../images/swimwear8.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/hover_hat.jpg",
+        "hoverAlt": "Swimwear Pic"
+      },  
+      {
+        "id": 14,
+        "src": "../images/swimwear12.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/hover_orange.jpg",
+        "hoverAlt": "Swimwear Pic"
+      },
+      {
+        "id": 15,
+        "src": "../images/swimwear9.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/hover_blue.jpg",
+        "hoverAlt": "Swimwear Pic"
+      },
+      {
+        "id": 16,
+        "src": "../images/swimwear11.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/hover_yellow.jpg",
+        "hoverAlt": "Swimwear Pic"
+      },
+      {
+        "id": 17,
+        "src": "../images/swimwear10.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/hover_opink.jpg",
+        "hoverAlt": "Swimwear Pic"
+      },
+      {
+        "id": 18,
+        "src": "../images/swimwear1.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/hover_fullp.jpg",
+        "hoverAlt": "Swimwear Pic"
+      },
+      {
+        "id": 19,
+        "src": "../images/swimwear2.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/hover_lpfull.jpg",
+        "hoverAlt": "Swimwear Pic"
+      },
+      {
+        "id": 20,
+        "src": "../images/swimwear6.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/hover_lpink.jpg",
+        "hoverAlt": "Swimwear Pic"
+      },
+      {
+        "id":21,
+        "src": "../images/swimwear7.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/hover_dpink.jpg",
+        "hoverAlt": "Swimwear Pic"
+      },
+      {
+        "id": 22,
+        "src": "../images/swimwear5.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/hover_hat.jpg",
+        "hoverAlt": "Swimwear Pic"
+      },
+      {
+        "id": 23,
+        "src": "../images/swimwear3.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/hover_dpink.jpg",
+        "hoverAlt": "Swimwear Pic"
+      },
+      {
+        "id": 24,
+        "src": "../images/swimwear4.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/hover_lpink.jpg",
+        "hoverAlt": "Swimwear Pic"
+      },
+      {
+        "id": 25,
+        "src": "../images/ken2.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/khover8.jpg",
+        "hoverAlt": "Ken Pic"
+      },  
+      {
+        "id": 26,
+        "src": "../images/ken6.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/khover9.jpg",
+        "hoverAlt": "Ken Pic"
+      },    
+      {
+        "id": 27,
+        "src": "../images/ken12.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/khover7.jpg",
+        "hoverAlt": "Ken Pic"
+      },  
+      {
+        "id": 28,
+        "src": "../images/ken4.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/khover2.jpg",
+        "hoverAlt": "Ken Pic"
+      },  
+      {
+        "id": 29,
+        "src": "../images/ken3.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/khover1.jpg",
+        "hoverAlt": "Ken Pic"
+      },  
+      {
+        "id": 30,
+        "src": "../images/ken10.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/khover6.jpg",
+        "hoverAlt": "Ken Pic"
+      },  
+      {
+        "id": 31,
+        "src": "../images/ken9.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/khover5.jpg",
+        "hoverAlt": "Ken Pic"
+      },  
+      {
+        "id": 32,
+        "src": "../images/ken7.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/khover4.jpg",
+        "hoverAlt": "Ken Pic"
+      },  
+      {
+        "id": 33,
+        "src": "../images/ken1.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/khover10.jpg",
+        "hoverAlt": "Ken Pic"
+      }, 
+      {
+        "id": 34,
+        "src": "../images/ken11.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/khover7.jpg",
+        "hoverAlt": "Ken Pic"
+      }, 
+      {
+        "id": 35,
+        "src": "../images/ken5.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/khover3.jpg",
+        "hoverAlt": "Ken Pic"
+      },  
+      {
+        "id": 36,
+        "src": "../images/ken8.jpg",
+        "alt": "Inspired Outfit",
+        "hoverSrc": "../images/khover5.jpg",
+        "hoverAlt": "Ken Pic"
+      }
+  ]
+  

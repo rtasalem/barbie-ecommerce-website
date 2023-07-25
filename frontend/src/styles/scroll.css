@@ -1,0 +1,88 @@
+:root {
+    --size: 0.2em;
+    --gap: 20px;
+  }
+
+.box {
+    color: var(--textcol);
+    padding-top: 5px;
+    padding-bottom: 0px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    max-height: auto;
+}
+
+.heading {
+    padding-left: 30px;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-variant: small-caps;
+    color: var(--heading);
+    background-color: var(--headingbg);
+    margin: 10px 0px;
+    padding: 17px;
+}
+
+.horizontal-media-scroller {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: max-content;
+    gap: var(--gap);
+    padding-inline: 0px;
+    /* padding-block-end: var(--gap); */
+  
+    overflow-wrap: normal;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+    scroll-padding-inline-start: var(--gap);
+}
+
+.scroll-container {
+    text-align: center;
+    overflow-x: auto;
+    background-color: var(--scrollbg);
+    padding: var(--gap);
+    padding-right: var(--gap);
+}
+
+.pic {
+    position: relative;
+    background-color: var(--caption);
+    padding: 0;
+    padding-right: var(--gap);
+}
+
+.caption {
+    color: var(--capbg);
+    font-size: 0.9em;
+    font-variant: small-caps;
+}
+
+.caption-link {
+  text-decoration: none;
+}
+  
+  .show-img,
+  .hover-img {
+    display: block;
+    top: 0;
+    left: 0;
+  }
+
+  .hover-img {
+    position: absolute;
+  }
+  
+  .show-img {
+    opacity: 1;
+    z-index: 1;
+  }
+  
+  .hover-img {
+    opacity: 0;
+    z-index: 1;
+  }
+  
+  .hover-img:hover {
+    opacity: 1;
+  }
