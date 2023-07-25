@@ -46,7 +46,7 @@ WIP (work in progress): not all desired functionality has been achieved, this wi
 - Adding wishlist functionality in front- and back-end
 - Updating tests to ensure they all work
 - Adding an admin side to contribute to the addition of new items/maintenance of an inventory
-- Ensuring all tests pass for all controller and service classes
+- Ensuring all tests pass for all controller and service classes (code coverage is currently 93.8%)
 
 ## Team Organisation
 Whilst working on this project, the authors 
