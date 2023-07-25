@@ -37,7 +37,7 @@ To push:
 - git push --set-upstream origin new-branch-name
     
 Then create a merge/pull request here on GitHub.
-## Project status
+## Project Status
 WIP (work in progress): not all desired functionality has been achieved, this will be improved upon over time.
 ### DoD
 The e-commerce website is considered “done” when it is functional, responsive, and meets the following criteria: all core features, including product listing, shopping basket, user registration, login and logout functionality are implemented and functioning correctly. The user interface is polished, with intuitive navigation menus, well-designed pages and smooth transitions. The website is at least 80% tested, and the code is well documented.
