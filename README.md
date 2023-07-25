@@ -1,63 +1,55 @@
-# barbie-website
-
-## Name
-Barbie E-Commerce Website
+# Barbie E-commerce Website
+### Authors and Acknowledgement
+[Rana Salem](https://www.linkedin.com/in/ranatasalem/), [Maryam Islam](https://www.linkedin.com/in/marzcreatives/), [Laila Al-Eissa](https://www.linkedin.com/in/lailaaleissa/), [Viktorija Blumberga](https://www.linkedin.com/in/viktorijablumberga/), [Kuljeet Panesar](https://www.linkedin.com/in/kuljeetpanesar/), [Andreea-Daniela Baciu](https://www.linkedin.com/in/andreeadanielabaciu/), and Nadeen Bayley.
 
 ## Description
-This website is to sell physical barbie related items such as tops and skirts etc. The website has functionality to explore through the website pages showing particular collections and items that can be bought. There is a favourites list for saving items for a later date and a basket to add items the user wanted to buy, additionally to edit products inside the basket such as sizing, quantity and removing items.
+This website was submitted as a final group project when the authors were training towards a Tech Industry Gold Credential in software development, receiving their training through FDM Group. The project is a Barbie themed e-commerce website that sells Barbie themed clothing. The website has functionality to explore through the website pages showing particular collections of outfits and items. Refer to the initial commit made to the main branch to gain an idea of what the authors achieved in 4 days before submitting the project. This repository now serves for the authors to continue working on what was built in those 4 days. 
 
-## DoD
-The clothing website is considered “done” when it is functional, responsive and meets the following criteria: all core features, including product listing, shopping basket, user registration, login and logout functionality are implemented and functioning correctly. The user interface is polished, with intuitive navigation menus, well-design pages and smooth transitions. The website is at least 80% tested, and the code is well documented.
+## Getting Started
+After cloning the repository, follow the steps below to see the website on your local machines:
+In your chosen IDE (the authors used Eclipse):
+- Import the folder named backend as a Maven project
+- Run the project as a Spring Boot App
+Once you are satisfied that the API is up and running (ensure you can see tables dropping in the console), open your terminal and run the following commands to view the front-end:
+- cd barbie-website/frontend
+- npm install
+- npm start
 
-## Badges
-Tests that don't currently pass:
-    Basket service          - Delete item from basket
-                            - Edit size of item
-                            - Add item to basket
-    Favourites controller   - Delete Favourites
-    Item controller         - Add item
+## Contributing
+To clone:
+- git clone https://github.com/rtasalem/barbie-website.git
+    
+To pull:
+- cd barbie-website
+- git branch (ensure you are on main branch, if not use: git checkout main)
+- git pull
+    
+To push:
+- cd barbie-website
+- git branch (check which branch you are on)
+- git checkout -b new-branch-name (replace new-branch-name with an appropriate name)
+- git branch (check you are on the new branch)
+- git status (unadded files will appear red)
+- git add .
+- git status (added files will appear green)
+- git commit -m "description of the commit"
+- git status (check tree is clean)
+- git push --set-upstream origin new-branch-name
+    
+Then create a merge/pull request here on GitHub.
+## Project status
+WIP (work in progress): not all desired functionality has been achieved, this will be improved upon over time.
 
 ## Roadmap
 - Altering resizing of webage to make it suitable for all screen sizes
 - Adding images to cart
-- Adding wishlist functionality in front and backend
+- Adding wishlist functionality in front- and back-end
 - Updating tests to ensure they all work
-- Adding an admin side to contribute to the addition of items/maintenance 
+- Adding an admin side to contribute to the addition of new items/maintenance of an inventory
+- Ensuring all tests pass for all controller and service classes
 
-## Contributing
-To clone:
-    git clone https://git.fdmgroup.com/Kuljeet.Panesar/barbie-website
-
-To pull:
-    cd barbie-website
-    git branch          (ensure you are on main branch, if not use  git checkout main)
-    git pull
-
-To push:
-    cd barbie-website
-    git branch          (check branch that you are on)
-    git checkout -b newBranch       (name newBranch as necessary)
-    git branch          (check you are on the new branch)
-    git status          (changes will be in red)
-    git add .
-    git status          (changes will appear green)
-    git commit -m "description of the commit"
-    git status          (check tree is clean)
-    git push --set-upstream origin newBranch
-Then create merge request on gitlab
-
-
-Check product backlog to see any remaining tasks -> https://barbie-project.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
-
-To open the Frontend:
-    cd barbie-website
-    cd frontend
-    npm install
-    npm start
-
-## Authors and acknowledgment
-Backend contributions: Andreea, Kuljeet, Nadeen, Rana
-Frontend contributions: Laila, Maryam, Viktorija
-
-## Project status
-Partly functioning website to be added to as time goes by
+## Team Organisation
+Whilst working on this project, the authors 
+See our product backlog here -> https://barbie-project.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
+### DoD
+The e-commerce website is considered “done” when it is functional, responsive, and meets the following criteria: all core features, including product listing, shopping basket, user registration, login and logout functionality are implemented and functioning correctly. The user interface is polished, with intuitive navigation menus, well-designed pages and smooth transitions. The website is at least 80% tested, and the code is well documented.
