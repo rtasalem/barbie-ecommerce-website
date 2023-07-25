@@ -15,7 +15,7 @@ Once you are satisfied that the API is up and running (ensure you can see tables
 - npm install
 - npm start
 
-## Contributing
+## Contributing & Using Git
 To clone:
 - git clone https://github.com/rtasalem/barbie-website.git
     
