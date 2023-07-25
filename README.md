@@ -49,7 +49,6 @@ WIP (work in progress): not all desired functionality has been achieved, this wi
 - Ensuring all tests pass for all controller and service classes (code coverage is currently 93.8%)
 
 ## Team Organisation
-Whilst working on this project, the authors used Scrum and Agile principles to organise and prioritise their tasks. This included daily scrums, a scrum retrospective, working in sprints, and composing a backlog.
-See our product backlog here -> https://barbie-project.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog
+Whilst working on this project, the authors used Scrum and Agile principles to organise and prioritise their tasks. This included daily scrums, a scrum retrospective, working in sprints, and composing a product backlog. Kanban boards and product backlogs were managed using Jira Software. 
 ### DoD
 The e-commerce website is considered “done” when it is functional, responsive, and meets the following criteria: all core features, including product listing, shopping basket, user registration, login and logout functionality are implemented and functioning correctly. The user interface is polished, with intuitive navigation menus, well-designed pages and smooth transitions. The website is at least 80% tested, and the code is well documented.
