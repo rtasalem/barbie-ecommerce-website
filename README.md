@@ -6,37 +6,12 @@ Rana Salem ([LinkedIn](https://www.linkedin.com/in/ranatasalem/) | [GitHub](http
 This website was submitted as a final group project when the authors were training towards a Tech Industry Gold Credential in software development, receiving their training through FDM Group. The project is a Barbie themed e-commerce website that sells Barbie themed clothing. The website has functionality to explore through the website pages showing particular collections of outfits and items. Refer to the initial commit made to the main branch to gain an idea of what the authors achieved in 4 days before submitting the project. This repository now serves for the authors to continue working on what was built in those 4 days. 
 
 ## Getting Started
-After cloning the repository, follow the steps below to see the website on your local machines:
-In your chosen IDE (the authors used Eclipse):
-- Import the folder named backend as a Maven project
-- Run the project as a Spring Boot App
-Once you are satisfied that the API is up and running (ensure you can see tables dropping in the console), open your terminal and run the following commands to view the front-end:
-- cd barbie-website/frontend
-- npm install
-- npm start
+To run the project locally:
+- Navigate to the directory named `frontend`.
+- Run `npm i` (or `npm insall`) and then run `npm start` to load the frontend. This can be confirmed by visiting `http://localhost:3000` via a browser.
+- In the `backend` directory, navigate to the `BarbieEcommerceWebsiteApiApplication.java` file (`src/main/java/com/fdmgroup/api/BarbieEcommerceWebsiteApiApplication.java`) and click `Run`.
+- After refreshing the local server, the data from the API should now load to the frontend.
 
-## Contributing & Using Git
-To clone:
-- git clone https://github.com/rtasalem/barbie-website.git
-    
-To pull:
-- cd barbie-website
-- git branch (ensure you are on main branch, if not use: git checkout main)
-- git pull
-    
-To push:
-- cd barbie-website
-- git branch (check which branch you are on)
-- git checkout -b new-branch-name (replace new-branch-name with an appropriate name)
-- git branch (check you are on the new branch)
-- git status (unadded files will appear red)
-- git add .
-- git status (added files will appear green)
-- git commit -m "description of the commit"
-- git status (check tree is clean)
-- git push --set-upstream origin new-branch-name
-    
-Then create a merge/pull request here on GitHub.
 ## Project Status
 WIP (work in progress): not all desired functionality has been achieved, this will be improved upon over time.
 ### DoD
