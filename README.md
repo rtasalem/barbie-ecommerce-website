@@ -9,7 +9,7 @@ This website was submitted as a final group project when the authors were traini
 To run the project locally:
 - Navigate to the directory named `frontend`.
 - Run `npm i` (or `npm insall`) and then run `npm start` to load the frontend. This can be confirmed by visiting `http://localhost:3000` via a browser.
-- In the `backend` directory, navigate to the `BarbieEcommerceWebsiteApiApplication.java` file (`src/main/java/com/fdmgroup/api/BarbieEcommerceWebsiteApiApplication.java`) and click `Run` (this applies if you are using VS Code in a other IDEs like Eclipse, simply right click on the project and run the project as a Spring Boot Application).
+- In the `backend` directory, navigate to the `BarbieEcommerceWebsiteApiApplication.java` file (`src/main/java/com/fdmgroup/api/BarbieEcommerceWebsiteApiApplication.java`) and click `Run` (this applies if you are using VS Code in other IDEs like Eclipse, simply right click on the project and run the project as a Spring Boot Application).
 - After refreshing the local server, the data from the API should now load to the frontend.
 
 ## Project Status
