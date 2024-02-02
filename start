@@ -1,0 +1,22 @@
+#!/bin/bash
+set -e
+
+# Navigate to REST API (backend)
+cd backend
+
+# Build & run API as Spring Boot Application
+mvn clean install -DskipTests
+mvn spring-boot:run
+
+# Navigate to React app (frontend)
+cd ..
+cd frontend
+
+# Install dependencies 
+npm i
+
+# Start React app (frontend)
+npm start
+
+# Open localhost:3000 in the browser
+open http://localhost:3000
