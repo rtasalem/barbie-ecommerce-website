@@ -6,11 +6,12 @@ Rana Salem ([LinkedIn](https://www.linkedin.com/in/ranatasalem/) | [GitHub](http
 This website was submitted as a final group project when the authors were training towards a Tech Industry Gold Credential in software development, receiving their training through FDM Group. The project is a Barbie themed e-commerce website that sells Barbie themed clothing. The website has functionality to explore through the website pages showing particular collections of outfits and items. Refer to the initial commit made to the main branch to gain an idea of what the authors achieved in 4 days before submitting the project. This repository now serves for the authors to continue working on what was built in those 4 days. 
 
 ## Getting Started
-To run the project locally:
-- Navigate to the directory named `frontend`.
-- Run `npm i` (or `npm insall`) and then run `npm start` to load the frontend. This can be confirmed by visiting `http://localhost:3000` via a browser.
-- In the `backend` directory, navigate to the `BarbieEcommerceWebsiteApiApplication.java` file (`src/main/java/com/fdmgroup/api/BarbieEcommerceWebsiteApiApplication.java`) and click `Run` (this applies if you are using VS Code in other IDEs like Eclipse, simply right click on the project and run the project as a Spring Boot Application).
-- After refreshing the local server, the data from the API should now load to the frontend.
+The [start script](https://github.com/rtasalem/barbie-ecommerce-website/blob/main/start) can be used to run the entire project using a single command: `./start`.<br>
+Note that you will likely need to have Maven installed on your machine to allow execution of `mvn` commands.<br><br>
+To run the project manually:
+- Navigate to the `backend` directory (`cd backend`), locate the `BarbieEcommerceWebsiteApiApplication.java` file (`src/main/java/com/fdmgroup/api/BarbieEcommerceWebsiteApiApplication.java`) and click `Run` (this applies if you are using VS Code. In other IDEs like Eclipse, import the project as a Maven project, right click on the `backend` directory of the project and select to run as a Spring Boot Application).
+- Navigate to the `frontend` directory (`cd ..` followed by `cd frontend`)
+- Run `npm i` (or `npm insall`) followed by `npm start` to load the frontend. This can be confirmed by visiting `http://localhost:3000` via a browser.
 
 ## Project Status
 WIP (work in progress): not all desired functionality has been achieved, this will be improved upon over time.
