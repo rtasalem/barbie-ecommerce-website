@@ -7,7 +7,7 @@ This website was submitted as a final group project when the authors were traini
 
 ## Getting Started
 The [start script](https://github.com/rtasalem/barbie-ecommerce-website/blob/main/start) can be used to run the entire project using a single command: `./start`.<br>
-Note that you will likely need to have Maven installed on your machine to allow execution of `mvn` commands.<br><br>
+Note that you will likely need to have [Maven](https://maven.apache.org/index.html) installed (if not already) on your machine to allow execution of `mvn` commands.<br><br>
 To run the project manually:
 - Navigate to the `backend` directory (`cd backend`), locate the `BarbieEcommerceWebsiteApiApplication.java` file (`src/main/java/com/fdmgroup/api/BarbieEcommerceWebsiteApiApplication.java`) and click `Run` (this applies if you are using VS Code. In other IDEs like Eclipse, import the project as a Maven project, right click on the `backend` directory of the project and select to run as a Spring Boot Application).
 - Navigate to the `frontend` directory (`cd ..` followed by `cd frontend`)
